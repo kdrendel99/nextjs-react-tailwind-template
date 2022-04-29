@@ -1,0 +1,9 @@
+@import '../colors';
+@import '../variables';
+
+.test_cat {
+  background-color: $karlsonDarkGrey;
+  color: $karlsonPurple;
+
+  // @apply border-solid;
+}
